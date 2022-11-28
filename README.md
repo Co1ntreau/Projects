@@ -1,2 +1,2 @@
-# YandexPraktikum
-Сборный проект - 1
+# Project
+Project 1
